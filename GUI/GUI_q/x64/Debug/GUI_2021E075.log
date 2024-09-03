@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.h(192,60): error C2039: 'MyForm_Load': is not a member of 'GUI2021E075::MyForm'
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.h(18,19): message : see declaration of 'GUI2021E075::MyForm'
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.h(192,1): error C2065: 'MyForm_Load': undeclared identifier
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.h(192,1): error C3924: error in argument #2 of delegate constructor call 'System::EventHandler':
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.h(192,1): message : pointer to member function expected
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
