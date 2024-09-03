@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.h(183,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.h(177,20): warning C4101: 'fval': unreferenced local variable
+C:\My\ee\GUI_2021E075\GUI_2021E075\MyForm.cpp(5,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUI_2021E075.vcxproj -> C:\My\ee\GUI_2021E075\x64\Debug\GUI_2021E075.exe

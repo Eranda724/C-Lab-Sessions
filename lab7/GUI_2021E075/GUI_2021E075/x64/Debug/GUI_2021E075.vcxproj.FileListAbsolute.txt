@@ -1,0 +1,4 @@
+C:\My\ee\GUI_2021E075\GUI_2021E075\x64\Debug\GUI_2021E075.vcxproj.AssemblyReference.cache
+C:\My\ee\GUI_2021E075\GUI_2021E075\x64\Debug\GUI_2021E075.vcxproj.SuggestedBindingRedirects.cache
+C:\My\ee\GUI_2021E075\GUI_2021E075\x64\Debug\GUI2021E075.MyForm.resources
+C:\My\ee\GUI_2021E075\GUI_2021E075\x64\Debug\GUI_2021E075.vcxproj.GenerateResource.cache
