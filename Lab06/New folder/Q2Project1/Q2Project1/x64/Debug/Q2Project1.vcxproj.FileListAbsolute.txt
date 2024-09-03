@@ -1,0 +1,2 @@
+C:\New folder\Q2Project1\Q2Project1\x64\Debug\Q2Project1.vcxproj.AssemblyReference.cache
+C:\New folder\Q2Project1\Q2Project1\x64\Debug\Q2Project1.vcxproj.SuggestedBindingRedirects.cache
